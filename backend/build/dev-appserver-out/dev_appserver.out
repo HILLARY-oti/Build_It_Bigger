@@ -1,0 +1,19 @@
+2020-07-24 20:57:48.113:INFO::main: Logging initialized @1224ms to org.eclipse.jetty.util.log.StdErrLog
+2020-07-24 20:57:48.312:WARN:oejs.AbstractConnector:main: Ignoring deprecated socket close linger time
+Jul 24, 2020 5:57:56 PM com.google.appengine.tools.development.IsolatedAppClassLoader checkWorkingDirectory
+WARNING: Your working directory, (C:\Users\hilla\Desktop\builditbigger\backend) is not equal to your 
+web application root (C:\Users\hilla\Desktop\builditbigger\backend\build\exploded-backend)
+You will not be able to access files from your working directory on the production server.
+
+2020-07-24 20:57:57.646:INFO:oejs.Server:main: jetty-9.4.27.v20200227; built: 2020-02-27T18:37:21.340Z; git: a304fd9f351f337e7c0e2a7c28878dd536149c6c; jvm 1.8.0_212-release-1586-b04
+2020-07-24 20:58:07.484:INFO:oejsh.ContextHandler:main: Started c.g.a.t.d.j.DevAppEngineWebAppContext@4722ef0c{/,file:///C:/Users/hilla/Desktop/builditbigger/backend/build/exploded-backend/,AVAILABLE}{C:\Users\hilla\Desktop\builditbigger\backend\build\exploded-backend}
+2020-07-24 20:58:07.485:INFO:oejs.session:main: DefaultSessionIdManager workerName=node0
+2020-07-24 20:58:07.485:INFO:oejs.session:main: node0 Scavenging disabled
+2020-07-24 20:58:08.568:INFO:oejs.AbstractConnector:main: Started NetworkTrafficSelectChannelConnector@6b09bb57{HTTP/1.1, (http/1.1)}{localhost:9090}
+2020-07-24 20:58:09.023:INFO:oejs.Server:main: Started @22137ms
+Jul 24, 2020 5:58:09 PM com.google.appengine.tools.development.AbstractModule startup
+INFO: Module instance default is running at http://localhost:9090/
+Jul 24, 2020 5:58:09 PM com.google.appengine.tools.development.AbstractModule startup
+INFO: The admin console is running at http://localhost:9090/_ah/admin
+Jul 24, 2020 8:58:09 PM com.google.appengine.tools.development.DevAppServerImpl doStart
+INFO: Dev App Server is now running

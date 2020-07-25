@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">jokeandroidlibrary</string>
+    <string name="jokeNotFound">no joke to display</string>
+    <string name="serverError">No joke to display from the server</string>
+    <string name="get_joke">get joke</string>
+    <string name="no_joke_string">No joke</string>
+    <string name="title">Joke of the Day</string>
+    <string name="joke">Fuuuuny</string>
+</resources>
