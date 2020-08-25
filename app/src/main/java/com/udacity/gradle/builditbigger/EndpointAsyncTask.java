@@ -18,6 +18,10 @@ public class EndpointAsyncTask extends AsyncTask<Void, Void, String> {
         this.mListener = listener;
     }
 
+    public EndpointAsyncTask() {
+
+    }
+
     @Override
     protected String doInBackground(Void... params){
         if(myApiService == null) {  // Only do this once
